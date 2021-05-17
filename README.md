@@ -2,6 +2,7 @@
 A Chrome Extension to more easily filter a board by assignee
 
 # Usage
+- Replace the `config.json` file with one of your choosing.
 - Open Google Chrome
 - On the toolbar at the top left, click vertical ellipsis ...
 - Click on More Tools...

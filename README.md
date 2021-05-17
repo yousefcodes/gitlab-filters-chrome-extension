@@ -10,3 +10,4 @@ A Chrome Extension to more easily filter a board by assignee
 - Find your repo in your local machine
 - Open It
 - Click Select
+- Pin it, use it.

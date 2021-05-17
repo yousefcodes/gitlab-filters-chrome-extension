@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const config_path = chrome.runtime.getURL('config.json');
 
     fetch(config_path)
-        .then((response) => response.json()) //assuming file contains json
+        .then((response) => response.json())
         .then((json) => load_users(json));
 });
 

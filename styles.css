@@ -1,0 +1,21 @@
+body {
+    font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+    font-size: 100%;
+}
+#users {
+    /* avoid an excessively wide status text */
+    text-overflow: ellipsis;
+    overflow: hidden;
+    min-width: 220px;
+    border: 3px solid orange;
+    border-radius: 5px;
+}
+a:active {
+    background-color: yellow;
+}
+
+#title {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}

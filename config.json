@@ -1,0 +1,13 @@
+{
+  "root_uri": "https://gitlab.com",
+  "company_name": "Foo Bar, Inc",
+  "group_name": "foobar",
+  "project": "engineering",
+  "board_id": "your-gilab-board-id",
+  "users": [
+    {
+      "username": "yousefcodes",
+      "name": "Yousef Elreda"
+    }
+  ]
+}
